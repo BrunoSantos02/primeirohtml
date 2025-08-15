@@ -8,3 +8,6 @@ h1{
     font-size: 120px;
 }
 
+ul, ol{
+    list-style-position: inside;
+}
