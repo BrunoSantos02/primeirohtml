@@ -1,0 +1,13 @@
+*{
+    background-color: rgb(138, 181, 201);
+    text-align: center;
+    color:rgb(19, 64, 94);
+}
+
+h1{
+    font-size: 120px;
+}
+
+ul, ol{
+    list-style-position: inside;
+}
